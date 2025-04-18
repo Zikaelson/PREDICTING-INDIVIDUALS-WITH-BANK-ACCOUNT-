@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import cross_val_score
@@ -29,3 +30,6 @@ from scipy.optimize import minimize
 from lightgbm import LGBMRegressor # type: ignore
 from catboost import CatBoostRegressor # type: ignore
 warnings.filterwarnings('ignore')
+=======
+Run this to check for updates : git fetch
+>>>>>>> 15a459857649afca281cbf3d36f66013f9c17eb9
