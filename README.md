@@ -20,3 +20,6 @@ relationship_with_head: The interviewees relationship with the head of the house
 marital_status: The martial status of the interviewee: Married/Living together, Divorced/Seperated, Widowed, Single/Never Married, Dont know
 education_level: Highest level of education: No formal education, Primary education, Secondary education, Vocational/Specialised training, Tertiary education, Other/Dont know/RTA
 job_type: Type of job interviewee has: Farming and Fishing, Self employed, Formally employed Government, Formally employed Private, Informally employed, Remittance Dependent, Government Dependent, Other Income, No Income, Dont Know/Refuse to answer
+
+
+<!-- Learning Git branching as a Data Scientist -->
